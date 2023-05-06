@@ -1,24 +1,18 @@
 # VIT-Emergency-Medical-Assistance-System-VEMAS- VITConnect
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="src\images\Logo.png">
-    <img src="Logo.png" alt="Logo" width="300" height="120">
-  </a>
+<p align-items="center">
+<img width="320px" src="https://github.com/sankalp20/Emergency/blob/master/src/images/Logo.png"/>
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
 A web application that will help the students to get the best emergency medical assistance by connecting parallelly the doctors & proctor for approval using real-time API, prior to connecting to the ambulance service point specially designed for VIT Bhopal students.
 
 <p align-items="center">
-<img width="640px" src="Landing Page Screenshot with extension"/>
+<img width="640px" src="https://github.com/sankalp20/Emergency/blob/master/src/images/Emergency%20VIT%20Connect.png"/>
 
 { About the Project - Detailed Description}
-  
-<p align-items="center">
-<img width="640px" src="Login Page Image with extension"/>
-  
+    
 # Built With
 
 This project was built using :-
@@ -38,10 +32,15 @@ The issue at hand is VIT Bhopal's students' insufficient access to emergency med
 The proposed project will provide an online platform for students to log in and fill out a form with their name, registration ID, and details of their medical emergency, including any relevant medical history. The form will be sent simultaneously to the doctor, supervisor, and the proctor for reference. Upon approval, an ambulance will be called immediately through an assistance point and will transport the patient to the nearest hospital. The project will also maintain live data, including the location of the ambulance, to ensure that the entire process runs smoothly. Also, academic consideration will be done on the reports of the same.
 
 # Current Updates
-
+- The Front-End is ready.
+- The API call is having an error, "Encore is not defined".
+- Backend framework (on Springboot under Construction).
+- Page is responsive.
   
 # Future works (Under Progress)
-
+- Complete backend Server.
+- API Call debug, realtime database call.
+- Data storage and management of data (in history) on time-to-time basis.
 
 # Expected Outcome
 This project aims to provide a more efficient and streamlined process for students to receive medical assistance during emergencies. By eliminating the need for multiple approvals, the system will ensure that students can receive medical attention in a timely manner, potentially saving time and providing smooth service efficiently. Additionally, the project will store data to improve the efficiency of the system over time. Ultimately, this project will improve the current medical assistance system in VIT Bhopal and ensure that students receive the care they need during emergencies.
