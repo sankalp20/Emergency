@@ -33,7 +33,6 @@ The proposed project will provide an online platform for students to log in and 
 
 # Current Updates
 - The Front-End is ready.
-- The API call is having an error, "Encore is not defined".
 - Backend framework (on Springboot under Construction).
 - Page is responsive.
   
