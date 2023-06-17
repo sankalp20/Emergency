@@ -33,7 +33,7 @@ The proposed project will provide an online platform for students to log in and 
 
 # Current Updates
 - The Front-End is ready.
-- Backend framework (on Springboot under Construction).
+- Backend framework is under construction.
 - Page is responsive.
   
 # Future works (Under Progress)
